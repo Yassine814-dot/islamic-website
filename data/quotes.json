@@ -1,0 +1,94 @@
+{
+    "quotes": [
+      {
+        "id": 1,
+        "text": "So verily, with every difficulty there is relief: Indeed, with every difficulty there is relief.",
+        "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا . إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+        "source": "Qur'an 94:5-6",
+        "category": "Sabr",
+        "reference": "Surah Ash-Sharh",
+        "explanation": "This verse reminds us that after hardship comes ease, giving hope to those facing difficulties."
+      },
+      {
+        "id": 2,
+        "text": "The strong person is not the one who can overpower others. Rather, the strong person is the one who controls himself when angry.",
+        "arabic": "لَيْسَ الشَّدِيدُ بِالصُّرَعَةِ، إِنَّمَا الشَّدِيدُ الَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ الْغَضَبِ",
+        "source": "Sahih al-Bukhari 6114",
+        "category": "Akhlaq",
+        "reference": "Book of Good Manners",
+        "explanation": "True strength lies in self-control, especially during anger."
+      },
+      {
+        "id": 3,
+        "text": "Seeking knowledge is an obligation upon every Muslim.",
+        "arabic": "طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ",
+        "source": "Sunan Ibn Majah 224",
+        "category": "Knowledge",
+        "reference": "Book of Sunnah",
+        "explanation": "This hadith emphasizes the importance of seeking knowledge as a religious duty."
+      },
+      {
+        "id": 4,
+        "text": "None of you truly believes until he loves for his brother what he loves for himself.",
+        "arabic": "لَا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ",
+        "source": "Sahih al-Bukhari 13",
+        "category": "Iman",
+        "reference": "Book of Faith",
+        "explanation": "True faith manifests in selfless love and care for others."
+      },
+      {
+        "id": 5,
+        "text": "Indeed, Allah is with the patient.",
+        "arabic": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+        "source": "Qur'an 2:153",
+        "category": "Sabr",
+        "reference": "Surah Al-Baqarah",
+        "explanation": "Patience brings divine support and companionship."
+      },
+      {
+        "id": 6,
+        "text": "The best among you are those who have the best manners and character.",
+        "arabic": "إِنَّ مِنْ خِيَارِكُمْ أَحَاسِنَكُمْ أَخْلَاقًا",
+        "source": "Sahih al-Bukhari 3559",
+        "category": "Akhlaq",
+        "reference": "Book of Virtues",
+        "explanation": "Good character is the measure of true excellence."
+      },
+      {
+        "id": 7,
+        "text": "Whoever believes in Allah and the Last Day should speak good or remain silent.",
+        "arabic": "مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ",
+        "source": "Sahih al-Bukhari 6018",
+        "category": "Akhlaq",
+        "reference": "Book of Manners",
+        "explanation": "Faith should guide our speech towards goodness or silence."
+      },
+      {
+        "id": 8,
+        "text": "Allah does not burden a soul beyond that it can bear.",
+        "arabic": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا",
+        "source": "Qur'an 2:286",
+        "category": "Sabr",
+        "reference": "Surah Al-Baqarah",
+        "explanation": "Divine wisdom ensures we are never tested beyond our capacity."
+      },
+      {
+        "id": 9,
+        "text": "The seeking of knowledge is obligatory for every Muslim.",
+        "arabic": "طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ",
+        "source": "Sunan Ibn Majah 224",
+        "category": "Knowledge",
+        "reference": "Book of Sunnah",
+        "explanation": "Knowledge acquisition is a continuous duty for all Muslims."
+      },
+      {
+        "id": 10,
+        "text": "Paradise is surrounded by hardships, and Hellfire is surrounded by desires.",
+        "arabic": "حُفَّتِ الْجَنَّةُ بِالْمَكَارِهِ وَحُفَّتِ النَّارُ بِالشَّهَوَاتِ",
+        "source": "Sahih Muslim 2822",
+        "category": "Iman",
+        "reference": "Book of Paradise",
+        "explanation": "The path to paradise requires patience through difficulties."
+      }
+    ]
+  }
